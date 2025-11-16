@@ -1,5 +1,7 @@
 Project: use deep learning approaches to be able to diagnose and detect arthritis
 
+YouTube Video of Presentation: https://youtu.be/bbzhhNHkTqg 
+
 
 Citations:
 
